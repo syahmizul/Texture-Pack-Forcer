@@ -1,0 +1,10 @@
+name: TexturePackForce
+version: '${project.version}'
+main: com.silverhawk21.texturepackforce.TexturePackForce
+api-version: 1.17
+authors: [ SilverHawk21 ]
+description: Forces a resource pack on player join.
+commands:
+  texturepack:
+    description: Apply texture pack.
+    usage: /<command>
